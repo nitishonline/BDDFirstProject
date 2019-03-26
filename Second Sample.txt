@@ -1,0 +1,5 @@
+This is my Second sample file.
+I have created a new Branch with Name Branch1.
+To Create a new Repository command is as below:
+1. Git remote add origin "URL of repository from GITHUB".
+2. Git push -u origin master.
